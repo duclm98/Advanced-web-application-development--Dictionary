@@ -1,0 +1,57 @@
+{
+    "words": [{
+        "en": "hello",
+        "vi": "xin chào"
+    }, {
+        "en": "Clothes",
+        "vi": "Quần áo"
+    }, {
+        "en": "number",
+        "vi": "chữ số"
+    }, {
+        "en": "food",
+        "vi": "thức ăn"
+    }, {
+        "en": "animal",
+        "vi": "động vật"
+    }, {
+        "en": "nature",
+        "vi": "tự nhiên"
+    }, {
+        "en": "house",
+        "vi": "nhà"
+    }, {
+        "en": "geography",
+        "vi": "địa lý"
+    }, {
+        "en": "sleep",
+        "vi": "ngủ"
+    }, {
+        "en": "communication",
+        "vi": "giao tiếp"
+    }, {
+        "en": "photography",
+        "vi": "nhiếp ảnh"
+    }, {
+        "en": "history",
+        "vi": "lịch sử"
+    }, {
+        "en": "electronics",
+        "vi": "đồ điện tử"
+    }, {
+        "en": "cold",
+        "vi": "lạnh"
+    }, {
+        "en": "the cream",
+        "vi": "cái kem"
+    }, {
+        "en": "the dog",
+        "vi": "Xin chào"
+    }, {
+        "en": "the drum",
+        "vi": "Cái trống"
+    }, {
+        "en": "address",
+        "vi": "địa chỉ"
+    }]
+}

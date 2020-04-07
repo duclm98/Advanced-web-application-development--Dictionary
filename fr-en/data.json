@@ -1,0 +1,63 @@
+{
+    "words": [{
+        "fr": "bonjour",
+        "en": "hello"
+    }, {
+        "fr": "les vêtements",
+        "en": "Clothes"
+    }, {
+        "fr": "les nombres",
+        "en": "number"
+    }, {
+        "fr": "la nourriture",
+        "en": "food"
+    }, {
+        "fr": "les animaux",
+        "en": "animal"
+    }, {
+        "fr": "la nature",
+        "en": "nature"
+    }, {
+        "fr": "la maison",
+        "en": "house"
+    }, {
+        "fr": "la géographie",
+        "en": "geography"
+    }, {
+        "fr": "dormir",
+        "en": "sleep"
+    }, {
+        "fr": "la communication",
+        "en": "communication"
+    }, {
+        "fr": "la photographie",
+        "en": "photography"
+    }, {
+        "fr": "l'histoire",
+        "en": "history"
+    }, {
+        "fr": "l'électronique",
+        "en": "electronics"
+    }, {
+        "fr": "le rhume",
+        "en": "cold"
+    }, {
+        "fr": "la crème",
+        "en": "the cream"
+    }, {
+        "fr": "le chien",
+        "en": "the dog"
+    }, {
+        "fr": "le tambour",
+        "en": "the drum"
+    }, {
+        "fr": "l'adresse",
+        "en": "address"
+    }, {
+        "fr": "baie",
+        "en": "bay"
+    }, {
+        "fr": "la ferme",
+        "en": "farm"
+    }]
+}
